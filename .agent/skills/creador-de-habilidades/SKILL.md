@@ -52,7 +52,9 @@ Instrucciones generales aquí...
    - **Casos de uso** detallados con ejemplos prácticos.
    - **Requisitos o directrices** operativas.
 
-2. **Archivos Adicionales (Opcional)**: Si la habilidad requiere scripts o ejemplos, crea las carpetas correspondientes:
+2. **Actualización del README Principal**: Una vez creada la habilidad, DEBES actualizar el archivo principal `README.md` en la raíz del repositorio (`d:\CODES\habilidades\README.md`). Agrega un enlace hacia la carpeta de la nueva habilidad en la sección del índice ("Índice de Habilidades Disponibles"), incluyendo un icono o emoji representativo, el nombre de la habilidad enlazado, y una breve descripción de una línea.
+
+3. **Archivos Adicionales (Opcional)**: Si la habilidad requiere scripts o ejemplos, crea las carpetas correspondientes:
    - `scripts/`: Scripts ejecutables.
    - `examples/`: Implementaciones de referencia.
    - `resources/`: Plantillas o activos.
@@ -67,4 +69,4 @@ Instrucciones generales aquí...
 ## Ejemplo de interacción
 
 Usuario: "Quiero crear una habilidad para revisar seguridad en Node.js"
-Agente: "¡Claro! Vamos a diseñarla. Crearemos la carpeta `security-audit-node`. Además del archivo `SKILL.md`, generaré un `README.md` dinámico con índices, casos de uso y la autoría correspondiente. ¿Qué puntos clave de seguridad quieres que revise? (ej: inyección SQL, vulnerabilidades, etc.)"
+Agente: "¡Claro! Vamos a diseñarla. Crearemos la carpeta `security-audit-node`. Además del archivo `SKILL.md`, generaré un `README.md` dinámico con índices, casos de uso y la autoría correspondiente. Posteriormente, añadiré esta nueva habilidad al Índice del README principal en la raíz del proyecto. ¿Qué puntos clave de seguridad quieres que revise? (ej: inyección SQL, vulnerabilidades, etc.)"
