@@ -16,11 +16,13 @@ A continuación se presenta el listado de las habilidades que componen este repo
 - ⚙️ [Creador de Habilidades](./.agent/skills/creador-de-habilidades/): Asistente para diseñar, documentar y originar automáticamente nuevas habilidades y registrarlas en este mismo repositorio.
 - 🐍 [Django Pro](./.agent/skills/django-pro/): Desarrollo avanzado (Nivel Súper Senior) en el ecosistema Django 5.x, DRF, Celery y optimización masiva de Consultas y bases de datos.
 - 📄 [Docx Pro](./.agent/skills/docx-pro/): Manipulación exhaustiva a nivel estructural XML (`document.xml`) de archivos Word manteniendo layouts complejos institucionales intactos.
+- 🛡️ [Secure-Fast .htaccess Generator](./.agent/skills/secure-fast-htaccess-generator/): Generador DevOps de nivel profesional para archivos .htaccess de Apache, maximizando seguridad estricta y alta velocidad en entornos críticos.
 - 🎨 [Frontend Pro](./.agent/skills/frontend-pro/): Diseño web a nivel de producción y audaz. Centrado en estéticas inmersivas, olvidando los layouts y estilos "cookie-cutter".
 - 📈 [SEO/AEO Architect](./.agent/skills/seo-aeo-architect/): Especialista en el posicionamiento orgánico E-E-A-T en buscadores tradicionales y estructuración JSON-LD de respuestas para modelos de Inteligencia Artificial.
 - 🏗️ [Systems Architect](./.agent/skills/systems-architect/): Diseño de arquitectura empresarial robusta bajo principios SOLID, Arquitectura Hexagonal y "Deuda Técnica Cero".
 - 👁️ [UI/UX Specialist](./.agent/skills/ui-ux-specialist/): Diseño de productos e interfaces aplicando psicología cognitiva, escalas tipográficas gigantescas, Grid Bentos y mejora radical de ratios de Conversión (CRO).
 - 🚀 [Web Architect](./.agent/skills/web-architect/): Estructuración general técnica para estéticas como Glassmorphism en stacks veloces y fluidos tipo Next.js o Astro, arrancando siempre desde HTML puro.
+- 🎭 [Visual Identity Generator](./.agent/skills/visual-identity-generator/): Especialista en branding e identidad visual para conceptualizar y crear toda la estructura estética inicial.
 
 ---
 
