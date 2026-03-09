@@ -23,6 +23,9 @@ A continuación se presenta el listado de las habilidades que componen este repo
 - 👁️ [UI/UX Specialist](./.agent/skills/ui-ux-specialist/): Diseño de productos e interfaces aplicando psicología cognitiva, escalas tipográficas gigantescas, Grid Bentos y mejora radical de ratios de Conversión (CRO).
 - 🚀 [Web Architect](./.agent/skills/web-architect/): Estructuración general técnica para estéticas como Glassmorphism en stacks veloces y fluidos tipo Next.js o Astro, arrancando siempre desde HTML puro.
 - 🎭 [Visual Identity Generator](./.agent/skills/visual-identity-generator/): Especialista en branding e identidad visual para conceptualizar y crear toda la estructura estética inicial.
+- 📊 [Excel Pro](./.agent/skills/excel-pro/): Habilidad avanzada para la creación y manipulación de archivos Excel (.xlsx). Soporta fórmulas complejas, estilos visuales alineados y cálculos automáticos.
+- 📄 [PDF Pro](./.agent/skills/pdf-pro/): Habilidad para generar documentos PDF profesionales con layout avanzado, integración de imágenes y estilos corporativos.
+- 🗂️ [PPT Pro](./.agent/skills/ppt-pro/): Habilidad para crear presentaciones de PowerPoint (.pptx) profesionales, dinámicas y visualmente alineadas con el proyecto.
 
 ---
 
